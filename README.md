@@ -1,19 +1,19 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+欢迎来到我的主页，这里有我的项目和学习笔记 :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 🔭 &nbsp;我叫甘罗宇，英文名叫Oliver，来自中国长沙 :smile:
+- 🌱 &nbsp;我目前在拓维信息系统股份有限公司工作 :wink:
+- 💬 &nbsp;可以咨询我关于OpenHarmony的升级子系统能力以及关于心率变异性的任何问题
+- 👨‍💻 &nbsp;如果想要了解我做的项目，可以参观我的CSDN [橄榄油加油](https://blog.csdn.net/weixin_62941746?type=blog)
+- ⚡ &nbsp;爱好: 我 :heart: :sport:s and FPS 游戏(Vlorant) (GamerTag: [三十岁仍想打职业]
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**最近的一些博客、论文和专利**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Heart rate variability analysis method for exercise-induced fatigue monitoring](https://www.sciencedirect.com/science/article/abs/pii/S1746809424000247)
+- [OTA AB差分升级示例](https://blog.csdn.net/weixin_62941746/article/details/144419107?spm=1001.2014.3001.5502)
+- [OpenHarmony HDF传感器驱动开发](https://blog.csdn.net/weixin_62941746/article/details/143566898?spm=1001.2014.3001.5502)
+- [蓝牙连接及安全基础](https://blog.csdn.net/weixin_62941746/article/details/131833542?spm=1001.2014.3001.5502)
+- [鸿蒙驱动开发-解决iphone手机热点重启后，设备未自动连接热点](https://blog.csdn.net/weixin_62941746/article/details/140991425?spm=1001.2014.3001.5502)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+I am an Embedded Developer with 2+ years of experience in developing enterprise driver and open-source driver.
 
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
