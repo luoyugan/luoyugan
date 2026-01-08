@@ -1,8 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 欢迎来到我的主页，这里有我的项目和学习笔记 :rofl:
 
-- 🔭 &nbsp;我叫甘罗宇，英文名叫Oliver，1999年出生，来自中国长沙 :smile:
-- 🌱 &nbsp;我目前在拓维信息系统股份有限公司工作 :wink:
+- 🔭 &nbsp;我叫Oliver，1999年出生，来自中国长沙 :smile:
 - 💬 &nbsp;欢迎与我探讨升级能力子系统的构建以及数字信号算法处理
 - 👨‍💻 &nbsp;如果想要了解我的项目，可以参观我的仓库，[[github](https://github.com/luoyugan), [gitee](https://gitee.com/gan-luoyu), [gitea](https://gitea.openvalley.net/LuoyuGan)]
 - ⚡ &nbsp;爱好: 我 :heart: 运动和FPS游戏(Vlorant)
